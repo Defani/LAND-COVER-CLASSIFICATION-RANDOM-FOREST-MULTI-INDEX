@@ -270,8 +270,9 @@ Skrip ini tidak menyertakan modul penilaian akurasi otomatis. Sangat disarankan 
 
 ## 📚 Daftar Pustaka
 
-- Baetens, L., Desjardins, C., & Hagolle, O. (2019). Validation of Copernicus Sentinel-2 cloud masks obtained from MAJA, Sen2Cor, and FMask processors using reference cloud masks generated with a supervised active learning procedure. *Remote Sensing*, 11(4), 433.
-- Breiman, L. (2001). Random forests. *Machine Learning*, 45, 5–32.
+- Baetens, L., Desjardins, C., & Hagolle, O. (2019). Validation of Copernicus Sentinel-2 Cloud Masks Obtained from MAJA, Sen2Cor, and FMask Processors Using Reference Cloud Masks Generated with a Supervised Active Learning Procedure. Remote Sensing, 11(4), 433. https://doi.org/10.3390/rs11040433
+- Breiman, L. (2001) Random Forests. Machine Learning, 45, 5-32.
+http://dx.doi.org/10.1023/A:1010933404324
 - Frampton, W. J., et al. (2013). Evaluating the capabilities of Sentinel-2 for quantitative estimation of biophysical variables in vegetation. *ISPRS Journal of Photogrammetry and Remote Sensing*, 82, 83–92.
 - Gao, B. C. (1996). NDWI — A normalized difference water index for remote sensing of vegetation liquid water from space. *Remote Sensing of Environment*, 58(3), 257–266.
 - Huete, A. R. (1988). A soil-adjusted vegetation index (SAVI). *Remote Sensing of Environment*, 25(3), 295–309.
